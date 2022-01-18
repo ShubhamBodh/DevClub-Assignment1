@@ -1,0 +1,82 @@
+body{background-color: antiquewhite;
+  
+
+}
+.header {
+  font-style: "Sofia, sans-serif";
+  padding: 40px; 
+  text-align: center; 
+  background: #1abc9c; 
+  color: white; 
+}
+
+
+.navbar {
+  overflow: hidden; 
+  background-color: #333; 
+}
+
+
+.navbar a {
+  float: left; 
+  display: block; 
+  color: white;
+  text-align: center;
+  padding: 14px 20px; 
+  text-decoration: none; 
+}
+
+.navbar a:hover {
+  background-color: #ddd;  
+  color: black; 
+}
+
+h1{
+  
+  padding: 10px; 
+  text-align: center; 
+  background: #44b8a1; 
+  color: white; 
+}
+
+.home{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.tips{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.symptoms{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.youtybe{
+text-align: center;
+}
+.footer{
+  background: #44b8a1; 
+
+ color: white;
+ text-align: center;
+}
+.faqs{
+  font-size: 20px;
+}
+.faqs h2{
+  font-style: bold;
+}
+.opening{
+  color: #2a8674;
+  text-align: center;
+  font-weight:bold ;
+  font-size: 40px;
+ 
+
+}
